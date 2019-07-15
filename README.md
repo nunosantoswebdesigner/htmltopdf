@@ -1,1 +1,1 @@
-# htmltopdf
+# js-html-to-pdf
